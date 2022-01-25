@@ -13,9 +13,9 @@ class MyStaggeredTile extends StatefulWidget {
 
 class _MyStaggeredTileState extends State<MyStaggeredTile> {
 
-  String _content ;
-  double _fontSize ;
-  Color tileColor ;
+  String _content;
+  double _fontSize;
+  Color tileColor;
   String title;
 
   @override
